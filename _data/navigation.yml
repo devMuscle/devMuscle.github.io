@@ -4,6 +4,41 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
+  - title: "Search"
+    url: /search/
+
+docs:
+  - title: "개발"
+    children:
+      - title: "SpringBoot"
+        url: /tags/#springboot
+      - title: "개발일기"
+        url: /tags/#개발일기
+
+  - title: "알고리즘"
+    children:
+      - title: "알고리즘"
+        url: /tags/#알고리즘
+      - title: "백준"
+        url: /tags/#백준
+      - title: "C++"
+        url: /tags/#c++
+
+  - title: "자료구조"
+    children:
+      - title: "자료구조"
+        url: /tags/#자료구조
+
+  - title: "C언어"
+    children:
+      - title: "C언어"
+        url: /tags/#c언어
+
+   - title: "Java"
+    children:
+      - title: "Java"
+        url: /tags/#java
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
