@@ -14,27 +14,17 @@ docs:
         url: /tags/#springboot
       - title: "개발일기"
         url: /tags/#개발일기
-
-  - title: "알고리즘"
+  - title: "Algorithm"
     children:
-      - title: "알고리즘"
-        url: /tags/#알고리즘
-      - title: "백준"
-        url: /tags/#백준
-      - title: "C++"
-        url: /tags/#c++
-
-  - title: "자료구조"
-    children:
-      - title: "자료구조"
-        url: /tags/#자료구조
-
+      - title: "Algorithm"
+        url: /tags/#Algorithm
+      - title: "Baekjoon"
+        url: /tags/#Baekjoon
   - title: "C언어"
     children:
       - title: "C언어"
-        url: /tags/#c언어
-
-   - title: "Java"
+        url: /tags/#c
+  - title: "Java"
     children:
       - title: "Java"
         url: /tags/#java
